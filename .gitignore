@@ -1,0 +1,16 @@
+RockPaperScissor_Dataset/
+OLDRockPaperScissor_Dataset/
+
+checkpoints_rps_real/convnext_tiny_rps_real_best.pth
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+.venv/
+env/
+venv/
+
+.DS_Store
+Thumbs.db
